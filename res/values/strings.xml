@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Engine Examples</string>
+    <string name="title_activity_reverse_example">Reverse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_spaceship_example">Spaceship</string>
+    <string name="title_activity_kickball_example">Kickball</string>
+
+</resources>
